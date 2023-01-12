@@ -296,13 +296,17 @@ body{
 @media (min-width: 1024px){
     
     article, .fiestass{
+        text-align: center;
         background-color: aliceblue;
         border: double 3px black;
-        margin-left: 170px;
-        margin-right: 170px;
+        margin-left: 250px;
+        margin-right: 250px;
         
     }
+    .navidad{
 
+        margin-top: 10px;
+    }
     footer{
         background: rgb(151,228,211);
 background: linear-gradient(45deg, rgba(151,228,211,1) 15%, rgba(106,247,214,1) 37%, rgba(90,235,201,1) 56%, rgba(51,232,192,1) 80%, rgba(49,208,164,1) 100%);
